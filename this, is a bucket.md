@@ -1,4 +1,4 @@
-#### 0. Documentation:
+# 0. Documentation:
 Well, this is like the 'Logger' module, I don't personally recomend it, but is better.
 
 # 1. so... how i customize it??
